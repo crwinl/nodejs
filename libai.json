@@ -1,0 +1,85 @@
+{
+    "name": {
+        "first": "青莲剑仙", 
+        "last": "李白"
+    }, 
+    "career": "ck", 
+    "date": {
+        "a": "70", 
+        "b": "80", 
+        "c": "65", 
+        "d": "90"
+    }, 
+    "skins": [
+        {
+            "pic": "http://game.gtimg.cn/images/yxzj/img2015/mainskin/pc-hero-libai.jpg", 
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskin/libai_skin1.jpg"
+        }, 
+        {
+            "pic": "http://game.gtimg.cn/images/yxzj/img2015/mainskin/pc-skin-libai-2.jpg", 
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskin/libai_skin2.jpg"
+        }
+    ], 
+    "story": {
+        "video": "http://static.video.qq.com/TPout.swf?vid=t01874l5rz9&auto=0", 
+        "describe": "数年前，一名青年以醉剑镌刻在朱雀门上的诗句轰动长安城，甚至引来女帝的青睐。从此以后，以剑仙之名传遍了大唐。而这名一人一剑直入长安的青年就是李白。</br>在拒绝入朝为官后，李白开始试剑天下的旅途，并在滔滔黄河边领悟到至强的剑意，成为大唐强者中的第一人。怀着荣耀，他回到自己出生的西域之国。却发现那里被唐军夷为平地，沦为奴隶的楼兰公主倾述完遭遇后，自我了断。鲜血激起了李白的侠义之心，他第二次单剑入长安，质问女帝。光辉璀璨的大明宫也因为他的剑气而动摇。最终，李白全身而退。但只有他自己知道，他的骄傲被挫败了。从那之后，他开始自我放逐。</br>除了长安的治安官狄仁杰，人人都以为剑仙将就此一蹶不振。但数年之后，白衣潇洒，酒剑相伴的男子身影，再度出现。</br>剑仙李白，三入长安了。</br>这次长安城又将怎样被动摇呢？</br>“大河之剑天上来！”"
+    }, 
+    "skills": [
+        {
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskill/libai_sk1.png", 
+            "name": "侠客行", 
+            "describe": "被动：李白施展侠客行，连续（3秒内）的第四次普通攻击会触发侠客行，提升自身攻击力，并解除青莲剑歌的使用限制持续5秒。"
+        }, 
+        {
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskill/libai_sk2.png", 
+            "name": "将进酒", 
+            "describe": "李白以醉剑势向指定方向突进，对经过的目标造成物理伤害，并造成晕眩，释放技能后5秒内再次启用发起冲锋，并在5秒内第三次启用回到原地。"
+        }, 
+        {
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskill/libai_sk3.png", 
+            "name": "神来之笔", 
+            "describe": "李白以自身为中心化剑为青莲剑阵，对范围内敌人造成物理伤害，并对撞到剑圈的敌人造成减速与伤害，并减少目标的护甲，释放技能期间李白不可被选中。"
+        }, 
+        {
+            "icon": "http://game.gtimg.cn/images/yxzj/img2015/mainskill/libai_sk4.png", 
+            "name": "青莲剑歌", 
+            "describe": "李白化身为剑气，飞速穿梭对前方范围挥出5次剑斩，每次剑气造成物理伤害。释放技能时李白不可被选中和攻击。青莲剑歌需要由侠客行解除限制后方可释放。"
+        }
+    ], 
+    "equip": {
+        "early": [
+            "xnhf", 
+            "smys"
+        ], 
+        "spell": [
+            "dr", 
+            "sx"
+        ], 
+        "mid": [
+            "xnhf", 
+            "smys", 
+            "wszm", 
+            "xesb", 
+            "srs"
+        ], 
+        "last": [
+            "xnhf", 
+            "wszm", 
+            "smys", 
+            "srs", 
+            "xesb"
+        ]
+    }, 
+    "rune": {
+        "level4": [
+            "adfw", 
+            "apfw", 
+            "fzfw"
+        ], 
+        "level5": [
+            "adfw", 
+            "apfw", 
+            "fzfw"
+        ]
+    }
+}
